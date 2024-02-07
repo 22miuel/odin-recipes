@@ -2,11 +2,11 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> cream pasta chicken pesto
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+This project is with the purpose of knowing how to make a dish of food through an internet page
 
 ## Built With
 
@@ -21,8 +21,7 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To start, we enter our browser and place github to enter my repositories, copy the code, enter the local disk c and then look for the odin folder, enter it and then open git bash and make a git clone
 
 
 To get a local copy up and running follow these simple example steps.
@@ -43,23 +42,14 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
-
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+👤 **MIGUEL GALLARDO**
+- GitHub: [@22miuel]
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/22miuel/odin-recipes/issues).
 
 ## Show your support
 
@@ -67,10 +57,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
+- I thank the gourmet gourmet cuisine institute of Venezuela that gave me very good knowledge in the area of ​​gastronomy taught by Professor Everes Salón who was there for more than 1 month helping me improve said restaurant.
 ## 📝 License
 
 This project is [CC0 1.0 Universal](LICENSE) licensed.
