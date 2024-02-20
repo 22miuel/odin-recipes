@@ -16,7 +16,7 @@ This project is with the purpose of knowing how to make a dish of food through a
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://22miuel.github.io/odin-recipes/)
 
 
 ## Getting Started
