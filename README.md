@@ -43,7 +43,7 @@ To get a local copy up and running follow these simple example steps.
 ## Authors
 
 👤 **MIGUEL GALLARDO**
-- GitHub: [@22miuel]
+- GitHub: [@22miuel](https://github.com/22miuel)
 
 ## 🤝 Contributing
 
