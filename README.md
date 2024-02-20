@@ -4,7 +4,7 @@
 
 > cream pasta chicken pesto
 
-![screenshot](./app_screenshot.png)
+![screenshot](./odinrecipes.png)
 
 This project is with the purpose of knowing how to make a dish of food through an internet page
 
